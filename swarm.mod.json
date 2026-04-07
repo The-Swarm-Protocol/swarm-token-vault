@@ -1,0 +1,11 @@
+{
+  "id": "dev.swarmprotocol.token-vault",
+  "name": "Swarm Token Vault",
+  "version": "0.1.0",
+  "swarmApi": "^0.1.0",
+  "entrypoint": {
+    "type": "worker",
+    "url": "https://token-vault.swarmprotocol.fun/v0.1.0/worker.js"
+  },
+  "permissions": []
+}
